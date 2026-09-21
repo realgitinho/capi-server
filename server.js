@@ -6,10 +6,10 @@ const app = express();
 const PORT = 3000;
 
 const allowedOrigins = [
-  'http://127.0.0.1:5500',
-  'https://trygutreset.store',
-  'https://www.trygutreset.store'
-  'https://go.trygutreset.store'
+    'http://127.0.0.1:5500',
+    'https://trygutreset.store',
+    'https://www.trygutreset.store'
+    ,
 ];
 
 app.use(cors({
