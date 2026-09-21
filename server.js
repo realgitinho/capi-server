@@ -9,6 +9,7 @@ const allowedOrigins = [
   'http://127.0.0.1:5500',
   'https://trygutreset.store',
   'https://www.trygutreset.store'
+  'https://go.trygutreset.store'
 ];
 
 app.use(cors({
