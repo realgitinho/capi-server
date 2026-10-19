@@ -9,7 +9,8 @@ const allowedOrigins = [
     'http://127.0.0.1:5500',
     'https://trygutreset.store',
     'https://www.trygutreset.store',
-    'https://go.trygutreset.store'
+    'https://go.trygutreset.store',
+    'https://read.trygutreset.store'
 ];
 
 // Render sits behind a proxy, so the visitor's real IP is the first address in X-Forwarded-For
